@@ -3,6 +3,7 @@ Tommy is a multipurpose bot with a lot of features like memes, welcomer, anime, 
 
 ## Stats
 
+## Wiki
 <a href="https://lazybuds.xyz./tommy"> ℹ About Tommy</a> <br>
 <a href="https://lazybuds.xyz./tommy">👷‍♀️ Basic Setup</a> <br>
 <a href="https://lazybuds.xyz./tommy">🛠 Moderation</a> <br>
