@@ -2,6 +2,7 @@
 Tommy is a multipurpose bot with a lot of features like memes, welcomer, anime, logs and much more!
 
 ## Stats
+![Discord Bots](https://top.gg/api/widget/servers/697463492457922571.svg)
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/lazybuds) 
 
 ## [Wiki](https://github.com/sanket-16/tommy/wiki)
