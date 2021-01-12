@@ -22,7 +22,7 @@ Tommy is a multipurpose bot with a lot of features like memes, welcomer, anime, 
 
 ## Support
 
-Please make sure to read the documentation correctly. If you still neec help you can contact us through [discord support server](https://discord.com/invite/A2SPMjZ).
+Please make sure to read the documentation correctly. If you still need help you can contact us through [discord support server](https://discord.com/invite/A2SPMjZ).
 If you want to report abuse of the bot please do use the same support server link or you can send us a [mail](mailto:contact@lazybuds.xyz).
 
 ## Terms of Services
