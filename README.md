@@ -10,7 +10,6 @@ Tommy is a multipurpose bot with a lot of features like memes, welcomer, anime, 
 
 ## [Wiki](https://github.com/sanket-16/tommy/wiki)
 <a href="https://github.com/sanket-16/tommy/wiki/About-Tommy">ℹ️ About Tommy</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Basic-Setup">👷‍♀️ Basic Setup</a> <br>
 <a href="https://github.com/sanket-16/tommy/wiki/Moderation">🛠 Moderation</a> <br>
 <a href="https://github.com/sanket-16/tommy/wiki/Anime">✨ Anime</a> <br>
 <a href="https://github.com/sanket-16/tommy/wiki/Meme">🐸 Meme</a> <br>
