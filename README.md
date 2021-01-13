@@ -8,16 +8,16 @@ Tommy is a multipurpose bot with a lot of features like memes, welcomer, anime, 
 [![Commands](https://img.shields.io/badge/Commands-145-green)](https://lazybuds.xyz/tommy)
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/lazybuds) 
 
-## [Wiki](https://github.com/sanket-16/tommy/wiki)
-<a href="https://github.com/sanket-16/tommy/wiki/About-Tommy">ℹ️ About Tommy</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Moderation">🛠 Moderation</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Anime">✨ Anime</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Meme">🐸 Meme</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Welcomer">👋 Welcomer</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Verification">🚦 Verification</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Anime-Soul">🦊 Anime Soul/Shoob</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Utility">⚠ Utility</a> <br>
-<a href="https://github.com/sanket-16/tommy/wiki/Misc">🏒 Misc</a> <br>
+## [Wiki](https://github.com/LazyBuds/tommy/wiki)
+<a href="https://github.com/LazyBuds/tommy/wiki/About-Tommy">ℹ️ About Tommy</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Moderation">🛠 Moderation</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Anime">✨ Anime</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Meme">🐸 Meme</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Welcomer">👋 Welcomer</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Verification">🚦 Verification</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Anime-Soul">🦊 Anime Soul/Shoob</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Utility">⚠ Utility</a> <br>
+<a href="https://github.com/LazyBuds/tommy/wiki/Misc">🏒 Misc</a> <br>
 
 ## Support
 
